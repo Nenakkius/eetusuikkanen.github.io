@@ -165,6 +165,28 @@
 
 
 
+  
+  
+  <link
+    type="text/css"
+    rel="stylesheet"
+    href="/css/components/gallery.a340929bbb811e8e4d4a0f98c05ad907342e2adef8546efa14cc42546f8a8b87827e0e981916da043c388dfc064eeaa0812a210e6cf70be45e22cd385a560ba1.css"
+    integrity="sha512-o0CSm7uBHo5NSg&#43;YwFrZBzQuKt74VG76FMxCVG&#43;Ki4eCfg6YGRbaBDw4jfwGTuqggSohDmz3C&#43;ReIs04WlYLoQ==">
+  
+  
+  <script
+    defer
+    type="text/javascript"
+    src="/lib/packery/packery.pkgd.min.8b0cbb30a72acb6a0188f690a3768e9c531f056dcf18df8d739ececb994387d28137ed684b2f23da6df5a0c416eb4f8818d5db4493419a9b97c7452ac602fbd4.js"
+    integrity="sha512-iwy7MKcqy2oBiPaQo3aOnFMfBW3PGN&#43;Nc57Oy5lDh9KBN&#43;1oSy8j2m31oMQW60&#43;IGNXbRJNBmpuXx0UqxgL71A=="></script>
+
+  
+  
+  <script
+    type="text/javascript"
+    src="/js/shortcodes/gallery.min.6c2cc2a23580ec18cb68df6a5cd6c35a324f0fd7815246ad6fee13a504e4eca547b6346abde168ececd913e0119fba6511cda8907029e217e3e333d562808c57.js"
+    integrity="sha512-bCzCojWA7BjLaN9qXNbDWjJPD9eBUkatb&#43;4TpQTk7KVHtjRqveFo7OzZE&#43;ARn7plEc2okHAp4hfj4zPVYoCMVw=="></script>
+
 
 
 
@@ -1057,6 +1079,7 @@
     <li><a href="#themes">Themes</a></li>
     <li><a href="#delay-compensation">Delay Compensation</a></li>
     <li><a href="#enlarge-selected-tracks">Enlarge Selected Track(s)</a></li>
+    <li><a href="#cubase-style-render-in-place-dialog">Cubase style Render-In-Place dialog</a></li>
   </ul>
 </nav>
   </div>
@@ -1080,6 +1103,7 @@
     <li><a href="#themes">Themes</a></li>
     <li><a href="#delay-compensation">Delay Compensation</a></li>
     <li><a href="#enlarge-selected-tracks">Enlarge Selected Track(s)</a></li>
+    <li><a href="#cubase-style-render-in-place-dialog">Cubase style Render-In-Place dialog</a></li>
   </ul>
 </nav>
   </div>
@@ -1395,6 +1419,36 @@ Do have the actions window open with the 2 <strong>Xenakios/SWS: Set selected tr
 </figure>
 </p>
 <p>After making the Cycle Action and binding it to a key, it should switch the sizes of selected tracks between the 2 values you specified. This makes editing audio a lot faster and easier by having a large track height with a click of a key and I was really used to this in Cubase where it was a default feature bound under the <strong>Z</strong> key (cant remember if it was by default there or I bound it myself) 😄</p>
+
+<h2 class="relative group">Cubase style Render-In-Place dialog 
+    <div id="cubase-style-render-in-place-dialog" class="anchor"></div>
+    
+    <span
+        class="absolute top-0 w-6 transition-opacity opacity-0 ltr:-left-6 rtl:-right-6 not-prose group-hover:opacity-100 select-none">
+        <a class="group-hover:text-primary-300 dark:group-hover:text-neutral-700 !no-underline" href="#cubase-style-render-in-place-dialog" aria-label="Anchor">#</a>
+    </span>        
+    
+</h2>
+<p>I&rsquo;ve been using the right click context menu option <strong>Render item(s) as new takes</strong> and then the <strong>Implode takes to new tracks</strong> to convert midi items to audio and then put the take on its own track, but this has been really clunky compared to how nice it was in Cubase which had a whole <strong>Render-In Place</strong> dialog menu with options to do the render with insert effects or without, or even rendering using the whole signal path including the master, so really full featured one stop shop really..</p>
+<p>Luckily I came across a script utility by <strong>MPL</strong> while browsing <strong>Reapack</strong> for some any similar tools, as I had used some other tools by them so i had their repository connected to <strong>Reapack</strong> already.</p>
+<p>Their <strong>Render-In-Place</strong> script in the repo has a lot of the same useful options that the one in Cubase had that I used a lot, so this has got a lot of use from me all ready and hopefully will be useful for anyone reading as well.
+
+
+  
+  
+  
+  <div id="gallery-52d5ec21fd0600d1f84fb5ae0dee5d86" class="gallery">
+  
+  <img src="/reaper/renderinplace_1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/reaper/renderinplace_2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/reaper/renderinplace_3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="/reaper/renderinplace_4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+</div>
+
+To install the script you need to import MPL&rsquo;s repository first so that it they show up in <strong>Reapack</strong>, the repository link can be found on their <a
+  href="https://forum.cockos.com/showthread.php?t=188335"
+    target="_blank"
+  >Reaper Forum Post</a></p>
 
     </div>
   </section>

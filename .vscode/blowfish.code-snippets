@@ -267,5 +267,13 @@
 			"{{< huggingface model=\"${1:username/model}\" >}}"
 		],
 		"description": "Insert a Hugging Face model card"
+	},
+		"Insert audio": {
+		"scope": "markdown",
+		"prefix": "audio",
+		"body": [
+			"{{< audio src=\"${1:url or path}\">}}"
+		],
+		"description": "Insert a audio file"
 	}
 }

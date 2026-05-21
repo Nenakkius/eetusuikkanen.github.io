@@ -68,3 +68,16 @@ Do have the actions window open with the 2 **Xenakios/SWS: Set selected tracks h
 
 After making the Cycle Action and binding it to a key, it should switch the sizes of selected tracks between the 2 values you specified. This makes editing audio a lot faster and easier by having a large track height with a click of a key and I was really used to this in Cubase where it was a default feature bound under the **Z** key (cant remember if it was by default there or I bound it myself) 😄
 
+## Cubase style Render-In-Place dialog
+I've been using the right click context menu option **Render item(s) as new takes** and then the **Implode takes to new tracks** to convert midi items to audio and then put the take on its own track, but this has been really clunky compared to how nice it was in Cubase which had a whole **Render-In Place** dialog menu with options to do the render with insert effects or without, or even rendering using the whole signal path including the master, so really full featured one stop shop really..
+
+Luckily I came across a script utility by **MPL** while browsing **Reapack** for some any similar tools, as I had used some other tools by them so i had their repository connected to **Reapack** already.
+
+Their **Render-In-Place** script in the repo has a lot of the same useful options that the one in Cubase had that I used a lot, so this has got a lot of use from me all ready and hopefully will be useful for anyone reading as well.
+{{< gallery >}}
+  <img src="renderinplace_1.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="renderinplace_2.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="renderinplace_3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+  <img src="renderinplace_4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
+{{< /gallery >}} 
+To install the script you need to import MPL's repository first so that it they show up in **Reapack**, the repository link can be found on their [Reaper Forum Post](https://forum.cockos.com/showthread.php?t=188335) 
