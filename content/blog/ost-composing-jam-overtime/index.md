@@ -1,6 +1,6 @@
 +++
 date = "2026-05-01"
-draft = true
+draft = false
 title = "OST Composing Jam: Overtime"
 categories = [ "Jam Journals" ]
 tags = [ "ost composing jam", "devlog", "jam" ]
@@ -32,16 +32,16 @@ In each painting there is also a pair of chickens for some reason 😅, which I 
 
 But won't do much yet until the game setting and direction is decided on.
 
-### The theme
+#### The theme
 ![alt](https://img.itch.zone/aW1nLzI3MDEzNjU4LmpwZw==/original/uFEs5Q.jpg "Theme artwork by @Moddeang123")
 
 ## Initial ideas
 Before getting together as a group and discussing the direction were going for I spent a bit of time just noodling ideas around on the piano as they came to me from the theme and got a little melodic idea/figure that I like and recorded a improv take playing around with it on the piano.
-### Piano improv of the first idea
+#### Piano improv of the first idea
 {{< audio src="Idea1PianoNoodle.wav" >}}
 
 Then on the day after I started trying out to make an arrangement based on the earlier idea improv stuff, which ended up pretty heavily riffing on the Silent Hill 2 soundtrack stuff, with a sampled m9 chord played up and down the keyboard to get that lofi feel.
-### Arrangement test of the first idea
+#### Arrangement test of the first idea
 {{< audio src="Idea 1 Arr Test.wav" >}}
 
 Will have to see if this type of stuff will fit the game setting and chosen direction after its decided, but at least got something started for now 😉
@@ -55,7 +55,7 @@ So because I spent 2 hours on making nothing good, I decided to spend another ho
 
 The new idea is a bit similar to the first one with the usage of the semitone motion as a central part, and I noticed that I've been using that sort of figure a lot lately so maybe I really like it since I keep unconciously using it? 😄
 
-### Second idea?
+#### Second idea?
 {{< audio src="Idea2_ImprovNoodling_Piano.ogg">}}
 
 The day after I tried to do some sound design again, hoping to get at least something that feels usable...
@@ -76,7 +76,7 @@ While thinking of other instruments I got the idea of trying a Celeste to play s
 Maybe having such bright instruments playing melodic stuff will make the track catch the ear too much and not ambient enough, but I've decided to try every idea I get this year so in they go..
 
 Probably still a bit of a muddy mess but for starters I like it. 
-### First ambient try
+#### First ambient try
 {{< audio src="Idea3_MangledChoir.ogg">}}
 
 ## Rest of the first week
@@ -240,3 +240,45 @@ Tried some stuff to no avail, but will keep trying stuff after a break and maybe
 
 #### Audio
 {{< audio src="SchoolAmb_1_2.ogg">}}
+
+### Little tweaks
+Few days later, I'm really feeling like the school area tracks don't really need anything more added to them, since the ambient track feels pretty long as it is, and the chase track feels almost too intense for its purpose.
+
+So, for now I've only done some slight tweaking to the ambience track and modified the chase track to slowly add layers as it goes on to show how it would sound like in a gameplay context, where it keeps getting more intense as the danger gets closer to you etc.
+
+We have almost 50 minutes of music now so I'm a bit 50/50 if I should start making any new tracks at this point, but might try to make 1 more if I get any good ideas for places in the story, or since we are using my motif idea 2 track as the main theme, maybe I could do a slower moodier version of it on the piano? we have guitars as the instruments for our two main characters but I'm not confident enough in making a solo guitar arrangement without it sounding too fake.
+
+But anyway, here's the tweaked chase track with the layers getting added on top for intensity.
+
+#### Audio
+{{< audio src="SchoolChase_1_2.ogg">}}
+
+## Week 4 (Final Week)
+### Final Week game plan
+Only this week left now to get everything done and ready to submit, and I'm feeling that it's best that I try to get my stuff finalized before the weekend, just in case something unexpected happens...
+
+I have around 5 tracks at this point, which are in a pretty good state as they are now all though some of them could be longer in lenghth? but probably will keep them as is and just focus on mixing them the best I can.
+
+I probably could manage to make 1 more track during this last week, but we probably all ready have almost around 1 hour of music so probably will just focus on the mixing and maybe adding some pads/textures to fill out some tracks that dont feel full enough..
+
+### Latter half of the week
+Spent the first half of the week just doing very minor balance tweaks to the tracks I have, and also got a very repetitive idea for some sort of main menu music using some of the motifs together as a repeating synth sequence, decided to just scrap the idea and start to get the tracks I have mastered and ready to add to our submission project page early enough.
+
+Mastering for me pretty much means just slapping a limiter on the master buss and pumping the volume to the lufs values we decided on as a group to have everyone's tracks around the same volume and avoid having too drastic changes in loudness between them.
+
+Later a group member **Einel** offered to run others tracks through their mastering chain and after hearing their master of 1 of my tracks I just told them to run the rest throught their mastering chain as well, since what they made was a lot fuller and meatier especially on the low-mid/low end.
+
+Probably going to have to do some more studying on mixing and other processing to up my game on that stuff, since the comparison between the two masters really showed my lack of skill on polishing with the mix/master.
+
+I guess I was shown that it's actually possible to take one of my turds and polish it somehow to sound a lot better 😅 
+
+So with that motivating revelation, I guess this devlog will end here?
+
+If you actually managed to read this whole thing, good job 👏
+
+## Final submission:
+**This the submission page with all of the tracks our team made during the jam**
+<iframe frameborder="0" src="https://itch.io/embed/4608140" width="552" height="167"><a href="https://gruntofficial.itch.io/featherfall-ost-overtime-submission">FEATHERFALL - OST Overtime Submission by Grunt., Eetu Suikkanen, FoxHyode, EinelTheFox, •, Noahrav, Jiggyicarus</a></iframe>
+
+**My tracks on Youtube:**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=DR1kjr85scrhGMVs&amp;list=PLWYTK0hyTPxi8bQ6-egKH9fhx9anOBZqG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>

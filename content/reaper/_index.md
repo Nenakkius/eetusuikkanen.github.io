@@ -80,4 +80,4 @@ Their **Render-In-Place** script in the repo has a lot of the same useful option
   <img src="renderinplace_3.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
   <img src="renderinplace_4.png" class="grid-w50 md:grid-w33 xl:grid-w25" />
 {{< /gallery >}} 
-To install the script you need to import MPL's repository first so that it they show up in **Reapack**, the repository link can be found on their [Reaper Forum Post](https://forum.cockos.com/showthread.php?t=188335) 
+To install the script you need to import MPL's repository first so that they show up in **Reapack**, the repository link can be found on their [Reaper Forum Post](https://forum.cockos.com/showthread.php?t=188335) 
