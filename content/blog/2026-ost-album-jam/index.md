@@ -28,5 +28,28 @@ to lead to the short section that then loops back to the beginning.
 
 After I added some melodies to the part using a synth lead and a alto sax + put some little bell figures at parts of the track, the whole thing was sounding pretty OK for now and I decided to stop for the day as I had been working on it for a few hours now.. Will see later how the track feels and work on it more if it feels the right sound direction to go for.
 
-### Audio
+#### Audio
 {{< audio src="Commencing Mission.ogg">}}
+
+### First Idea Cont.
+Worked a bit more the initial idea the next day and extended the track by having the whole thing repeat again, but a Electric playes the lead on the repeat of the verse this time with the chorus still the same with the guitar added to harmonize the alongside the alto saxophone.
+
+After that comes a new section with the hammond organ turning on the overdrive effect and taking the lead, which then leads to the last repeat of the chorus that loops back to the start.
+
+Feels pretty OK leghtwise now at almost 3 minutes long, but maybe a bit too repetive with the 2 repeating sections with small changes.. just having the 1 organ *bridge* part before the final chorus might be a bit boring, but for now this will do and I will probably try to come up with other track ideas, possibly actually trying to do some of the challenges that are required instead of just jamming 😄
+
+## Throwing Paint
+Tried coming up with other track ideas, but the 2 two I got felt a bit *ehh* to me, with one just a boring sus2 chord based tension thing that felt too similar to a boss track I did for the Impressions: OST #3 jam, and the other feels too dance music/euro dance to fit with the first tracks more rock feel...
+
+Probably just going to have to try other things until something good comes up from those...
+
+And so for the first "other things" test, I loaded up my trusty old Hollywood Orchestra sounds and started a new more orchestral approach to things from the retro one before.
+
+Sketching ideas on the piano I came up with a pretty simplistic melodic idea that had an anthemic feel to it for me, so I started to arrange that further and ended up with a sort of military march kinda of feel because I used the brass section as the core of the arrangement and then ended up adding a snare drum and other percussion to amp the military march feel even more.
+
+Not even a minute long thing yet, but the basic idea I feel could work. Maybe reworking the melody to be as good as I can get it and using this track as the main theme, then making some combat/action, boss fight and ambiance tracks for a mecha game like before but a more modern one.
+
+At least for now this will be the direction I'm going, but if I suddenly start getting inspiration for the earlier style/tracks, then I'll switch to working on those.
+
+#### Audio
+{{< audio src="OrchTest_Anthem_1_1.ogg">}}
