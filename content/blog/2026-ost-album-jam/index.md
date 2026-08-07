@@ -4,7 +4,7 @@ draft = false
 title = "2026 OST Album Jam"
 categories = [ "Jam Journals" ]
 tags = [ "ost composing jam", "devlog", "jam" ]
-description = "Jam devlog forseatss 2026 OST Album Jam hosted by Grunt."
+description = "Jam devlog for 2026 OST Album Jam hosted by Grunt."
 +++
 ## Back to back jams?
 There is still 1 day left of the OST Composing Jam: Overtime Jam, but this jam started today and I was really eager to finally write something really upbeat and energetic after spending the last month writing nothing else than moody and ambient stuff while really trying to avoid having them be too in your face...

@@ -3,19 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
 
   <url>
-    <loc>http://localhost:1313/blog/2026-ost-album-jam/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://localhost:1313/blog/</loc>
-    <lastmod>2026-05-30T00:00:00+00:00</lastmod>
+    <loc>http://localhost:1313/blog/impressions-worldbuilding-1/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2026-07-06T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/blog/2026-ost-album-jam/</loc>
     <lastmod>2026-05-30T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
@@ -198,6 +204,11 @@
   </url>
   <url>
     <loc>http://localhost:1313/thankyou/</loc>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://localhost:1313/projects/impressions-worldbuild-1/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>

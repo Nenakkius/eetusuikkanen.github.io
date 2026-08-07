@@ -1,4 +1,4 @@
-# These are notes of different scripts, settings, tweaks and other stuff I've found to help make using the REAPER DAW a bit smoother as I've been trying to switch to it from Cubase.
+# These are notes of different scripts, settings, tweaks and other stuff I've found to help make using the REAPER DAW a bit smoother as I've been trying to learn to use it in Linux, since I'm coming to it from Cubase that does not have Linux version.
 
 ## Multi tool
 A script made by Julian Sader. This script adds most of the same midi value manipulation that Cubase has out of the box + it also works in the arrangement view, so you can use it there for automation as well!
