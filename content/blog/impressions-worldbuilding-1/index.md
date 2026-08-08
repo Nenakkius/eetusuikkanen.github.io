@@ -1,6 +1,6 @@
 +++
-date = "2026-07-06"
-draft = true
+date = "2026-08-08"
+draft = false
 title = "Impressions Composing Jam: Worldbuilding #1"
 categories = [ "Jam Journals" ]
 tags = [ "ost composing jam", "devlog", "jam" ]
@@ -98,7 +98,7 @@ I kinda did that for one the previous impressions jam video/thumbnail art and it
 
 {{< youtubeLite id="BgHe1Ek7bxo" label="label" >}}
 
-## Present Day
+## Getting in the flow
 ### Homevillage
 The music for the sundering felt at a good spot now, so I started to work on the music for the actual *start* of the story in the **Present Day**, also not sure why I initially called it the **Current Day** since that sounds kinda odd.. 😅 Apologies to any writers attending the jam that will have to read my poor attempts at writing 😂
 
@@ -291,5 +291,27 @@ Fatiferi
 Fatiferi  
 Servi estote Fatiferi  
 
+## The End
+Didn't really feel any good ideas for the boss fight tune and since there is only a bit over a day of time left I just decided to start getting things ready for submitting.
 
+I did record piano sketches of 2 ideas I got for the adventure part when they leave the village and find the control key to Cindrilego and for the end of the story, but with the time left I'm just submitting the sketches since I wont be able to arrange anything by the time.
 
+Now it was just mastering the tracks to a good consistent volume, rendering out the final story + music video and uploading that to youtube, which will take a while since the video is about 16 minutes long 😁
+
+Probably will also upload the raw audio files to itch if people want to listen to just the music without youtube compression, but just the video would also work fine imo.
+
+No art to go with the music and story sadly since I'm crap at drawing, but hopefully just the text and music is enough for people.
+
+I did notice at the later stage of the jam that my submission does a pretty piss poor job of answering the jams actual theme **"Effect of Environment on Society and Culture"**, since the old weapons/mechs are not really part of the *enviroment*...
+
+Maybe I could've had people who lived underwater in the old laboratory area and also some people living in the sky islands, and then wrote some stuff about how that affects their living, but well I'm shit at writing and even this took quite a bit of effort 😅
+
+Even if this doesn't really match the theme well, at least I got quite a lot of music done for once and just getting things done is enough of a reward for me 😁
+
+Though working on the last half of the Ombrilego battle track I realized just how much it sounds like a *We have One Winged Angel at home* sort of thing with how much elements I seem to have unconciously borrowed from it 😂
+
+I think I've rambled on enough so I'll stop this devlog here, below you may find the video with the finalized versions of the pretty basic story and the music to go with it.
+
+## Final Submission
+
+{{< youtubeLite id="nfG9Ovs0FVA" label="label" >}}
