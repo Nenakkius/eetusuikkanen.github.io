@@ -195,10 +195,10 @@ Maybe the key to reviving the guardian could be in a sunken lab/factory under th
 
 Just some ideas that popped to mind while writing this part of the devlog, but will try to maybe turn that into something, probably wont get much more done at this slow pace now with the remaining 9 days though but will at least try!
 
-**Aftermath** with the changed string samples
+#### **Aftermath** with the changed string samples
 {{< audio src="AfterMath_1_2.ogg">}}
 
-Piano sketch for the new **Setting Off** track
+#### Piano sketch for the new **Setting Off** track
 {{< audio src="SettingOff_1_1.ogg">}}
 ### Ending first?
 Was not really feeling anything from the previous days piano sketch, so I instead I wrote some short story text for the underwater lab where the key to the remnant in the vilage will be found.
@@ -291,7 +291,7 @@ Fatiferi
 Fatiferi  
 Servi estote Fatiferi  
 
-## The End
+## The End?
 Didn't really feel any good ideas for the boss fight tune and since there is only a bit over a day of time left I just decided to start getting things ready for submitting.
 
 I did record piano sketches of 2 ideas I got for the adventure part when they leave the village and find the control key to Cindrilego and for the end of the story, but with the time left I'm just submitting the sketches since I wont be able to arrange anything by the time.
@@ -312,6 +312,23 @@ Though working on the last half of the Ombrilego battle track I realized just ho
 
 I think I've rambled on enough so I'll stop this devlog here, below you may find the video with the finalized versions of the pretty basic story and the music to go with it.
 
-## Final Submission
+## Final Submission? (Not)
 
 {{< youtubeLite id="nfG9Ovs0FVA" label="label" >}}
+
+## 2 Week Extension!
+So.. On the same day I made my final submission video and uploaded it to YouTube later during the day it was announced that the jam would get a 2 Week Extension to work on the submissions more, which meant I could try to actually arrange/complete the piano sketches I had no time to arrange previously.
+
+Starting from the [old sketch I initially had made for when the heroes set off on the quest](#piano-sketch-for-the-new-setting-off-track), I arranged that to a bit somber but uplifting sounding thing with some woodwinds and strings that then has a big hopefull ending that then ends on a more mysterious mood to lead into the ombrilego fight and music.
+
+After that I got into a nice flow with the other 2 sketches and spent some days arranging those, making the setting off tune **Adventure** start with just the brass playing the melody on horns and trumpets with trombones playing the harmony, that then goes to woodwinds for repetitions and finally the strings for a *pretty basic* action feel section before ending on bit mysterious feel for the lab and the mysterious key and the voyage to follow it's guidance.
+
+The last was the one for the end of the story after defeating Ombrilego and for that I wanted it to feel a bit heroic, but not too much, so I tried to not go overbeard with the brass and just use horns for the lead at the first part and then start slowsly bringing in the rest of the orchestra to finally end on a big tutti for the last chords to close out the video, with the choir singing GLO-RI-A-TUS in latin, which should hopefully give that WE ARE VICTORIOUS feel to the end.
+
+After gotting versions of all 3 I was somewhat happy with for now, I tested them out in the final video context and they felt pretty nice! Though the pretty bombastic end to the Adventure music in the underground lab might make the grandeur of the final ending tracks big end chords feel lesser since they both do a bit of the same thing in a way... but should still work OK.
+
+I exported the current video version out and put that on YouTube for archival, but next up is just polishing the 3 tracks as much as I can till the time runs out and most importantly, I probably should come up with more story text for some parts since the music is pretty long compared to the meager amount of text at parts and that ends the viever having to watch the text scroll up the screen *REALLY* slowly to match the runtime of the music 😅
+
+Might not update this devlog with any more progress after this, other than the final submission video of course 😉, but for now here's the current WIP version with everything arranged.
+
+{{< youtubeLite id="934jRTYiM1Y" label="label" >}}
