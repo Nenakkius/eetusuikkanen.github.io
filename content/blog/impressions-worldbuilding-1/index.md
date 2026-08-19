@@ -332,3 +332,10 @@ I exported the current video version out and put that on YouTube for archival, b
 Might not update this devlog with any more progress after this, other than the final submission video of course 😉, but for now here's the current WIP version with everything arranged.
 
 {{< youtubeLite id="934jRTYiM1Y" label="label" >}}
+
+## Actual Final Submission
+Mostly been doing little polishing and tweaking to the tracks after the last WIP video and even though there is still about 4 days left of the jam, I decided to just submit a bit early since I feel like I cant get these any better.
+
+So this is the **actual** end of this devlog, below is the final submission with the music and text 😁
+
+{{< youtubeLite id="k063DBVYSvw" label="label" >}}
